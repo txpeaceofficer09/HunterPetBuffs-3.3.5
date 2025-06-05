@@ -1,0 +1,5 @@
+## Interface: 30300
+## Author: SoonBeSteak
+## Title: Hunter Pet Buffs
+## Notes: Keep track of when your pet has mend pet and feed pet buffs.
+Core.lua
